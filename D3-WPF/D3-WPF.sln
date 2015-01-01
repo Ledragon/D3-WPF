@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3-WPF", "D3-WPF\D3-WPF.csproj", "{C3612D54-1FF7-4CDB-A60E-94F3C9BF3F45}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{2D8BB080-BECE-4B4C-AB44-7361B8AEE374}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "behavior", "behavior", "{3E0E0F96-1FD0-4D98-84B9-61EED4978CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
